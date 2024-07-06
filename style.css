@@ -166,8 +166,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url('./1691416729865.jpeg');
-    opacity: 0.7;
+    background-color: #1c2e4a;
 	background-position:top;
     height: 30vh;
     color: #fff;
@@ -175,7 +174,6 @@ section .title::after{
     background-size:contain;
     background-attachment:scroll;
     background-repeat: repeat;
-    backdrop-filter: blur(70px);
     font-family: 'Ubuntu', sans-serif;
 }
 .home .max-width{
